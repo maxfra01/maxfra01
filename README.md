@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**maxfra01/maxfra01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Massimo!
 
-Here are some ideas to get you started:
+🎓 **MSc Student in AI & Data Analytics** | 🧠 Passionate about Open Source | 📊 Data Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently pursuing my Master's degree in Artificial Intelligence and Data Analytics. I am fascinated by the open-source community and love contributing to projects that push technology forward.
+
+### 🛠️ Tech Stack
+- **Programming:** Python
+- **Libraries & Frameworks:** Pandas, NumPy, PyTorch, Scikit-learn
+- **Other Tools:** Jupyter, SQL, Git, Docker
+
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxfra01&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxfra01&layout=compact&theme=radical)
+
+### 🌍 Where to Find Me
+soon
+
+
+
