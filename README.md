@@ -6,9 +6,9 @@
 I am currently pursuing my Master's degree in Artificial Intelligence and Data Analytics. I am fascinated by the open-source community and love contributing to projects that push technology forward.
 
 ### 🛠️ Tech Stack
-- **Programming:** Python
-- **Libraries & Frameworks:** Pandas, NumPy, PyTorch, Scikit-learn
-- **Other Tools:** Jupyter, SQL, Git, Docker
+- **Programming:** Python, C, Java, Bash
+- **Libraries & Frameworks:** Pandas, NumPy, PyTorch, Scikit-learn, Hadoop, Spark
+- **Other Tools:** Jupyter, SQL, Docker
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxfra01&show_icons=true&theme=radical)
