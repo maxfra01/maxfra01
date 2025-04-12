@@ -15,7 +15,7 @@ I am currently pursuing my Master's degree in Artificial Intelligence and Data A
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxfra01&layout=compact&theme=radical)
 
 ### 🌍 Where to Find Me
-soon
+- **[Linkedin](www.linkedin.com/in/massimo-francios-177029360)**
 
 
 
